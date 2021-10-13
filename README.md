@@ -31,7 +31,7 @@ Once someone pings @everyone the user who pinged will suffer
 2. Copy and paste your bot's client ID into the permissions calculator (the client ID can be found on the Discord bot application page), and click "Add". **You Can use the link you'll be sent to as your bot's invite link, if you'd like to share it with others.**
 
 ### Downloading and installing the bot
-1. Click the [Clone or download button](https://vgy.me/nSL8xK.png) on this page, and select "Download ZIP", and unzip the files once downloaded. Alternatively, you can [clone the repository](https://help.github.com/articles/cloning-a-repository/) using git.
+1. Click the [Download button](https://vgy.me/u/BlT1va) on this page, and unzip the files once downloaded. Alternatively, you can [clone the repository](https://help.github.com/articles/cloning-a-repository/) using git.
 2. Open the "**config.js.example**" file in any text editor (e.g. Visual Studio Code, Atom, Notepad++ or Notepad), and replace `TOKEN-HERE` with your bot's token from the Discord bot application page, and replace `PREFIX-HERE` with your desired command prefix for the bot. **Do not change anything else in this file.**
 3. Rename the file to `config.js`.
 4. Open a terminal window in the directory the (unzipped) bot files are in (e.g. Command Prompt/PowerShell on Windows, Terminal on macOS, etc).
