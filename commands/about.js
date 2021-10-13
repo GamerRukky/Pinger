@@ -6,7 +6,7 @@ module.exports = {
     async execute(message) {
         message.channel.send(`
         Hey **${message.author.username}**, I'm a bot that likes to spam-ping.
-        **Source code and installation instructions:** https://github.com/suvanl/Pinger
+        **Source code and installation instructions:** https://github.com/GamerRukky/Pinger
         `);
     }
 };
