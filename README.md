@@ -42,4 +42,5 @@ Once someone pings @everyone the user who pinged will suffer
 
 ----------
 
+Forked from https://github.com/suvanl/Pinger
 
