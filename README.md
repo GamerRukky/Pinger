@@ -7,12 +7,12 @@
 ----------
 
 ## What does it do?
-Once the **`ping`** command has been run, the bot will ping you once every 1.5 seconds.
+Once someone pings @everyone the user who pinged will suffer
 
 ## FAQ
 - Will it ever stop pinging me? No. 
 - So how do I stop it pinging me? Stop the bot.
-- Can this bot spam-ping others? No, it will only ping whoever runs the `ping` command.
+- Can this bot spam-ping others? No, it will only ping whoever pings everyone
 - Is this a selfbot? No.
 - Can I use this as a selfbot? No. [The use of selfbots is forbidden by Discord](https://support.discordapp.com/hc/en-us/articles/115002192352).
 
@@ -28,7 +28,7 @@ Once the **`ping`** command has been run, the bot will ping you once every 1.5 s
 
 ### Adding the bot to your server
 1. Use a Discord bot permissions calculator, such as [this one](https://finitereality.github.io/permissions-calculator/?v=0). Choose the permissions you'd like the bot to have.
-2. Copy and paste your bot's client ID into the permissions calculator (the client ID can be found on the Discord bot application page), and click "Add". **You can use the link you'll be sent to as your bot's invite link, if you'd like to share it with others.**
+2. Copy and paste your bot's client ID into the permissions calculator (the client ID can be found on the Discord bot application page), and click "Add". **You Can use the link you'll be sent to as your bot's invite link, if you'd like to share it with others.**
 
 ### Downloading and installing the bot
 1. Click the [Clone or download button](https://vgy.me/nSL8xK.png) on this page, and select "Download ZIP", and unzip the files once downloaded. Alternatively, you can [clone the repository](https://help.github.com/articles/cloning-a-repository/) using git.
