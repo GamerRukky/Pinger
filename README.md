@@ -2,7 +2,6 @@
 
 **A very simple Discord bot for people who (somehow) like to be spammed with pings**
 
-[![Build Status](https://travis-ci.org/suvanl/Pinger.svg?branch=master)](https://travis-ci.org/suvanl/Pinger)
 
 ----------
 
@@ -31,7 +30,7 @@ Once someone pings @everyone the user who pinged will suffer
 2. Copy and paste your bot's client ID into the permissions calculator (the client ID can be found on the Discord bot application page), and click "Add". **You Can use the link you'll be sent to as your bot's invite link, if you'd like to share it with others.**
 
 ### Downloading and installing the bot
-1. Click the [Download button](https://vgy.me/u/BlT1va) on this page, and unzip the files once downloaded. Alternatively, you can [clone the repository](https://help.github.com/articles/cloning-a-repository/) using git.
+1. Click the [Download button](https://i.vgy.me/BlT1va.png) on this page, and unzip the files once downloaded. Alternatively, you can [clone the repository](https://help.github.com/articles/cloning-a-repository/) using git.
 2. Open the "**config.js.example**" file in any text editor (e.g. Visual Studio Code, Atom, Notepad++ or Notepad), and replace `TOKEN-HERE` with your bot's token from the Discord bot application page, and replace `PREFIX-HERE` with your desired command prefix for the bot. **Do not change anything else in this file.**
 3. Rename the file to `config.js`.
 4. Open a terminal window in the directory the (unzipped) bot files are in (e.g. Command Prompt/PowerShell on Windows, Terminal on macOS, etc).
@@ -43,9 +42,4 @@ Once someone pings @everyone the user who pinged will suffer
 
 ----------
 
-<sup>* this bot was built using Node.js 9.11.2, but versions 8.x.x and 10.x.x should work fine too. If you encounter any issues caused by the use of these versions, please [open an issue](https://github.com/suvanl/Pinger/issues).</sup>
 
-## License
-Licensed under the [MIT License](https://github.com/suvanl/Pinger/blob/master/LICENSE).
-
-<sup>Please use this bot at your own risk. I am not responsible and cannot be held liable if you somehow break Discord's ToS through the use of this bot.</sup>
