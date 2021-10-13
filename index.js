@@ -25,7 +25,7 @@ client
 
 client.on("ready", () => {
 	console.log(`${timestamp} Logged in as ${chalk.cyan.bold(`${client.user.tag}`)}!`);
-	client.user.setActivity("the sound of pings", { type: "LISTENING" });
+	client.user.setActivity("to h̶e̶n̶t̶a̶i̶?̶ nono the sound of pings actually", { type: "LISTENING" });
 });
 
 
